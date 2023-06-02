@@ -1,0 +1,6 @@
+framework module WSSYASDF {
+  umbrella header "WSSYASDF-umbrella.h"
+
+  export *
+  module * { export * }
+}
